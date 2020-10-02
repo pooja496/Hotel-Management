@@ -1,0 +1,7 @@
+Hotel Management
+
+context path- http://localhost:8080/Hotel_Reservation/index.html
+
+Admin Login
+Username- admin@gmail.com
+Password- admin@123
